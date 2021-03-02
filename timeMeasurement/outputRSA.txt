@@ -1,0 +1,2 @@
+ | RSA | BitLength: 1024 | KeyLength: 294 | Time from Method: 5133210339 ns  | Time of doFinal(): 3484157 ns | 
+ | RSA | BitLength: 5120 | KeyLength: 1318 | Time from Method: 517960232141 ns  | Time of doFinal(): 6740901 ns | 

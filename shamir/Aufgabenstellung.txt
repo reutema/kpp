@@ -1,0 +1,8 @@
+Aufgabenstellung
+
+Implementieren Sie das Secret Sharing nach Shamir nach der in der Vorlesung vorgestellten Weise.
+
+Package: kpp.shamir
+Klassenname: ShamirSecretSharer
+
+Alles Details zu Attributen, Konstruktoren und Methoden finden Sie im "Klassengerüst".
